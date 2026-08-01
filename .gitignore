@@ -1,0 +1,22 @@
+# Compiled Java classes
+*.class
+
+# Generated JARs
+*.jar
+
+# Build output
+build/
+out/
+target/
+
+# jpackage / jlink runtime image
+image/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.dbb

@@ -1,0 +1,8 @@
+Mercury|60|0.045|mercury.png|Closest planet to the Sun
+Venus|90|0.035|venus.png|Hottest planet
+Earth|120|0.030|earth.png|Our home planet
+Mars|150|0.024|mars.png|The Red Planet
+Jupiter|200|0.013|jupiter.png|Largest planet
+Saturn|250|0.010|saturn.png|Beautiful rings
+Uranus|290|0.007|uranus.png|Rotates on its side
+Neptune|330|0.005|neptune.png|Farthest major planet
